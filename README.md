@@ -90,7 +90,6 @@ Open to opportunities in:
 
 
 
-Project Link: https://lnkd.in/gBg_kBvS
 
 
 
