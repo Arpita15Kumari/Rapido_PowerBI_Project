@@ -2,7 +2,7 @@
 
 
 
-I recently built an end-to-end interactive Power BI dashboard to analyze simulated Rapido ride booking data and uncover actionable business insights related to revenue, ride patterns, customer behavior, and location performance.
+I recently built an end-to-end interactive Power BI dashboard to analyze Rapido ride booking data and uncover actionable business insights related to revenue, ride patterns, customer behavior, and location performance.
 
 
 
